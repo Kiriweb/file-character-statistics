@@ -121,4 +121,3 @@ file-characters-statistics\
 
 ## Author
 [Kyriakos Koutsourelis](https://github.com/Kiriweb)
-```
