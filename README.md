@@ -1,4 +1,3 @@
-```markdown
 # File Character Statistics
 
 ## Project Overview
